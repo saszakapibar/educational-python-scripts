@@ -10,3 +10,7 @@ This script is a demonstration of how locker-type software works. It modifies re
 - **How to disable:** Simply open Task Manager (Ctrl + Shift + Esc) and end the process.
 
 **Note:** Always use safe environments (like Virtual Machines) when testing system-level scripts.
+
+## About Me
+Check out my main website  here: 
+[https://saszakapibar.github.io/](https://saszakapibar.github.io/)
