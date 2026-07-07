@@ -13,3 +13,5 @@ A lightweight, educational Python tool for web reconnaissance. It gathers inform
 prerequisites
 - Python 3.x
 - Required libraries: `requests`, `beautifulsoup4`, `pyOpenSSL`
+
+you can support me on https://saszakapibar.github.io/
